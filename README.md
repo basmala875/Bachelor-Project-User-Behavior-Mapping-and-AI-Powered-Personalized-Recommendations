@@ -1,0 +1,2 @@
+# Bachelor-Project-User-Behavior-Mapping-and-AI-Powered-Personalized-Recommendations
+Graph-based recommender system using LightGCN with Hybrid Sampling (LGCNHS) on MovieLens, built for a GUC bachelor's thesis. Enhances the base model with cosine annealing LR scheduling and ensemble scoring to improve both accuracy and recommendation diversity. Outperforms baselines on Recall@K and NDCG@K. Built in Python/PyTorch.
